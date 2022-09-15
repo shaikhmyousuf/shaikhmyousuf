@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shaikhmyousuf
 - 👀 I’m interested in Learning more about AI
-- 🌱 I’m currently waiting to start my MSc in Applied AI at Cranfield University. 
-- 💞️ I’m looking to collaborate on projects related to the application of AI in the aerospace industry. 
+- 🌱 I’ve completed my MSc in Applied AI at Cranfield University. 
+- 💞️ I’m looking to keep learning about the application of AI in industry 4.0 
 - 📫 How to reach me ...email me at shaikhmyousuf.1@gmail.com
 
 Cheers!
