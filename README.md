@@ -2,7 +2,7 @@
 - 👀 I’m interested in Learning more about AI
 - 🌱 I’ve completed my MSc in Applied AI at Cranfield University. 
 - 💞️ I’m looking to keep learning about the application of AI in industry 4.0 
-- 📫 How to reach me ...email me at shaikhmyousuf.1@gmail.com
+- 📫 How to reach me ...email me at shaikhyousuf1@gmail.com or yousuf.shaikh.550@cranfield.ac.uk
 
 Cheers!
 
